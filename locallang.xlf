@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2011-10-17T20:22:37Z" product-name="scheduler">
+		<header/>
+		<body>
+			<trans-unit id="productImportTask.name" xml:space="preserve">
+				<source>Product import task</source>
+			</trans-unit>
+			<trans-unit id="productImportTask.description" xml:space="preserve">
+				<source>This task imports products into the tt_products tables. It is designed to import data from a xml or csv file.</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
